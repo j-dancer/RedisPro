@@ -1,0 +1,16 @@
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\RedisTest.dll.config
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\RedisTest.dll
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\RedisTest.pdb
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\CacheTool.dll
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Newtonsoft.Json.dll
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\StackExchange.Redis.dll
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\CacheTool.pdb
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.AI.Web.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.AI.WindowsServer.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.ApplicationInsights.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\obj\Debug\RedisTest.csprojResolveAssemblyReference.cache
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\obj\Debug\RedisTest.dll
+E:\wwwroot\MyMvcPro\RedisPro\RedisTest\obj\Debug\RedisTest.pdb
